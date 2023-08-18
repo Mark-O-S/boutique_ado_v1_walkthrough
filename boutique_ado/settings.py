@@ -32,6 +32,9 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-mark-o-s-boutique-ado-v1-vbxmta3ni1.us2.codeanyapp.com',
     '8003-mark-o-s-boutique-ado-v1-vbxmta3ni1.us2.codeanyapp.com',
+    'boutique-ado-walk-8b90b251b5ae.herokuapp.com',
+    'boutique-ado-walk.herokuapp.com',
+    'localhost',
 ]
 
 
